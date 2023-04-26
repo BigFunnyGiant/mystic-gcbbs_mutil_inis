@@ -1,7 +1,4 @@
-# tqw_mutil_inis
-thE qUAntUm wOrmhOlE mutil ini's
+# GCBBS Mutil INIs
+Ground Control Mutil INIs 
 
-Here you will find the live mutil ini files I use for thE qUAntUm wOrmhOlE BBS.
-I hope that someone finds these useful, eh Pos? =)
-
-Enjoy!
+Thanks to [MeaTLoTioN](https://github.com/christiansacks/) of thE qUAntUm wOrmhOlE for sharing [his](https://github.com/christiansacks/tqw_mutil_inis).
